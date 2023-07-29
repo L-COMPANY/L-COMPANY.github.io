@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -26,7 +27,7 @@
     <!--navbar start-->
 
     <navbar class="navbar">
-      <img src="kjh.png" alt="Logo" class="bh">
+      <img src="WhatsApp Image 2023-07-29 at 15.32.02.jpeg" alt="Logo" class="bh">
       <a href="#" class="navbar-logo">L-<span>company</span>.</a>
       <div class="navbar-nav">
         <a href="#home">Home</a>
@@ -133,3 +134,4 @@ Selamat berbelanja, semoga puas dengan  pelayanan kami 🫡 dan terimakasih suda
     <script src="L-COMPANY.js"></script>
   </body>
 </html>
+  
