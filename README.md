@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -47,12 +46,11 @@
     <!--hero section start-->
     <section class="hero" id="home">
       <main class="content">
-        <h1>Selamat datang</h1>
-        <h1>di L- <span>COMPANY SHOP</span></h1>
+        <h1 class="h1">Selamat datang</h1>
         <p>
 Selamat berbelanja, semoga puas dengan  pelayanan kami 🫡 dan terimakasih sudah berkunjung
         </p>
-        <a href="g.html" class="cta">beli sekarang</a>
+        <a href="g.html" class="cta">Layanan</a>
       </main>
     </section>
     <!--hero section end-->
@@ -63,13 +61,10 @@ Selamat berbelanja, semoga puas dengan  pelayanan kami 🫡 dan terimakasih suda
 
       <div class="row">
         <div class="about-img">
-          <img src="OIP (2).jpg" alt="Tentang kami" />
+          <img src="WhatsApp Image 2023-07-29 at 15.32.02.jpeg" alt="Tentang kami" />
         </div>
         <div class="content">
           <h3>Kenapa memilih toko kami?</h3>
-          <p>
-           toko kami menyediakan barang berkualitas
-          </p>
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dicta
             maiores ut veritatis sint officiis consequuntur quos, aspernatur
@@ -134,4 +129,3 @@ Selamat berbelanja, semoga puas dengan  pelayanan kami 🫡 dan terimakasih suda
     <script src="L-COMPANY.js"></script>
   </body>
 </html>
-  
